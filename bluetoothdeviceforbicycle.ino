@@ -1,3 +1,5 @@
+//здесь модуль блютус выполняет функцию COM-порта
+//бля связи с устройство использую Bluetooth teminal
 char var;
 
 #include "FastLED.h"
